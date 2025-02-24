@@ -3,20 +3,4 @@ wall of shioelds
 standing strong
 on this their chosen battle field
 
-<<<<<<< HEAD
-maksb@PCMaks MINGW64 /c/data/temp/GIT-DEMO (main)
-$ git push
-Enter passphrase for key '/c/Users/maksb/.ssh/id_rsa':
-Everything up-to-date
-
-
-
-=======
-a
-a
-a
-a
-a
-a
->>>>>>> 9658446c4d20ab9040f97dff7c354e98359cbb13
 
